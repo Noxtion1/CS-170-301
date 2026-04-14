@@ -1,0 +1,25 @@
+    /* Submission requirements was a little confusing. I thought css styling was supposed to be in the html file, Hw5 page asks for a direct file. i created two as safe measure. */
+
+    <style>
+    body {
+        background-color: darkgray;
+        text-align: center;
+        color: white;
+    }
+    h1 {
+        font-family: 'Libre Baskerville', serif;
+        color: white;
+        text-transform: uppercase;
+    }
+div {
+            width: 60%;
+            margin-left: 20%;
+        }
+        div img {
+            width: 100%;
+            border: 5px solid white;
+        }
+        img {
+            border: 5px solid white;
+        }
+</style>
